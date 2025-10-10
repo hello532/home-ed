@@ -1,3 +1,5 @@
+![Strew Home Ed App](https://strew.app/assets/i/strew-home-ed-app-120.png)
+
 # Home Education Online Resources Directory
 
 In the making of the [Strew Home Ed App](https://strew.app), I've come across lots of great resources for home-ed parents and homeschoolers, (or worldschoolers, unschoolers, and all the wonderful variations of approaches to home education).
@@ -47,4 +49,4 @@ In the making of the [Strew Home Ed App](https://strew.app), I've come across lo
 
 Sponsored by [Strew](https://strew.app), The Home Education app.
 
-!(Strew Home Ed App)[https://strew.app/assets/i/strew-home-ed-app-120.png]
+![Strew Home Ed App](https://strew.app/assets/i/strew-home-ed-app-120.png)
